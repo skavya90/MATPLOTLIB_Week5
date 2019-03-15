@@ -1,0 +1,121 @@
+city,Average Fare,Total Rides,Total no.of Drivers,City_type
+Amandaburgh,24.641666666666666,18,12,Urban
+Barajasview,25.332272727272724,22,26,Urban
+Barronchester,36.42249999999999,16,11,Suburban
+Bethanyland,32.95611111111112,18,22,Suburban
+Bradshawfurt,40.064,10,7,Rural
+Brandonfort,35.43736842105263,19,10,Suburban
+Carriemouth,28.314444444444437,27,52,Urban
+Christopherfurt,24.50185185185185,27,41,Urban
+Colemanland,30.89454545454545,22,23,Suburban
+Davidfurt,31.99588235294118,17,23,Suburban
+Deanville,25.842631578947366,19,49,Urban
+East Aaronbury,25.66111111111111,9,7,Suburban
+East Danielview,31.560588235294116,17,22,Suburban
+East Kaylahaven,23.75793103448276,29,65,Urban
+East Kentstad,29.82307692307692,13,20,Suburban
+East Marymouth,30.835185185185182,27,5,Suburban
+Erikaland,24.906666666666666,12,37,Urban
+Garzaport,24.123333333333335,3,7,Rural
+Grahamburgh,25.2212,25,61,Urban
+Grayville,27.76333333333333,15,2,Suburban
+Harringtonfort,33.47,6,4,Rural
+Huntermouth,28.993749999999995,24,37,Urban
+Hurleymouth,25.89142857142857,28,36,Urban
+Jerryton,25.649200000000004,25,64,Urban
+Jessicaport,36.01333333333333,6,1,Rural
+Johnton,26.78571428571428,21,27,Urban
+Joneschester,22.2896,25,39,Urban
+Josephside,32.85814814814815,27,25,Suburban
+Justinberg,23.694333333333322,30,39,Urban
+Karenberg,26.340000000000003,17,22,Urban
+Karenside,27.453571428571433,28,5,Urban
+Lake Ann,30.89,12,3,Suburban
+Lake Danielberg,24.84423076923077,26,19,Urban
+Lake Jamie,34.358333333333334,6,4,Rural
+Lake Jonathanshire,23.425833333333333,24,5,Urban
+Lake Latoyabury,26.061818181818182,11,2,Rural
+Lake Omar,28.074999999999996,14,22,Suburban
+Lake Robertside,31.261999999999997,25,4,Suburban
+Lake Scott,31.886111111111113,18,23,Suburban
+Lake Scottton,23.809166666666666,24,58,Urban
+Leahton,21.243809523809524,21,17,Urban
+Lewishaven,25.241666666666664,12,23,Suburban
+Lewisland,34.61411764705882,17,4,Suburban
+Liumouth,26.149999999999995,33,69,Urban
+Loganberg,25.2925,28,23,Urban
+Martinezhaven,22.65125,24,25,Urban
+Mezachester,30.759999999999998,17,14,Suburban
+Michaelberg,34.99750000000001,12,6,Rural
+Myersshire,30.203125,16,19,Suburban
+New Jacobville,26.765555555555558,18,50,Urban
+New Kimberlyborough,22.589000000000002,30,33,Urban
+New Olivia,34.054117647058824,17,20,Suburban
+New Paulton,27.820000000000004,19,44,Urban
+New Paulville,21.67590909090909,22,44,Urban
+New Raymond,27.96181818181818,22,17,Suburban
+New Ryantown,43.278333333333336,6,2,Rural
+New Shannonberg,28.37823529411765,17,20,Suburban
+Newtonview,36.745000000000005,4,1,Rural
+Nicolechester,30.909473684210518,19,19,Suburban
+North Barbara,23.49409090909091,22,18,Urban
+North Holly,29.130000000000003,9,8,Rural
+North Jaime,30.802500000000002,8,1,Rural
+North Jasmine,25.20533333333333,30,33,Urban
+North Jason,22.743714285714287,35,6,Urban
+North Jeffrey,29.242307692307698,13,11,Suburban
+North Madeline,22.623599999999996,25,19,Urban
+North Markport,27.504285714285718,14,22,Urban
+North Richardhaven,24.70428571428571,14,1,Suburban
+North Timothy,31.262000000000004,15,7,Suburban
+Pattyland,23.98047619047619,21,59,Urban
+Penaborough,35.246,5,6,Rural
+Port Angela,23.836842105263155,19,67,Urban
+Port David,25.854999999999997,22,7,Urban
+Port Frank,27.201515151515153,33,23,Urban
+Port Johnbury,23.006363636363638,22,3,Urban
+Port Samanthamouth,25.64280000000001,25,57,Urban
+Port Shane,31.077894736842108,19,7,Suburban
+Randallchester,29.741999999999997,5,9,Rural
+Raymondhaven,21.4804,25,11,Urban
+Reynoldsfurt,21.919473684210526,19,67,Urban
+Richardfort,22.373214285714287,28,38,Urban
+Roberthaven,23.72916666666666,24,47,Urban
+Robertport,23.0605,20,12,Urban
+Rodneyfort,28.616956521739127,23,34,Urban
+Rodriguezview,30.745333333333335,15,20,Suburban
+Rogerston,22.097727272727273,22,25,Urban
+Royland,20.570666666666668,30,64,Urban
+Simpsonburgh,23.355833333333337,24,21,Urban
+Sotoville,31.979999999999997,11,10,Suburban
+South Brenda,33.96458333333334,24,1,Suburban
+South Evanton,26.72612903225806,31,11,Urban
+South Jack,22.965263157894736,19,46,Urban
+South Jennifer,35.26428571428572,7,7,Rural
+South Karenland,26.535526315789475,38,4,Urban
+South Latoya,20.093157894736848,19,10,Urban
+South Marychester,41.870000000000005,8,1,Rural
+South Michelleport,24.451612903225808,31,72,Urban
+South Phillip,28.57129032258064,31,38,Urban
+South Saramouth,36.16,4,7,Rural
+South Teresa,31.22045454545454,22,21,Suburban
+Taylorhaven,42.26333333333333,6,1,Rural
+Valentineton,24.636363636363637,22,45,Urban
+Veronicaberg,32.82823529411765,17,20,Suburban
+Victoriaport,27.780000000000005,14,16,Suburban
+West Angela,25.990000000000002,39,48,Urban
+West Anthony,24.736666666666665,30,70,Urban
+West Christopherberg,24.421153846153842,26,32,Urban
+West Ericstad,22.34722222222222,18,25,Urban
+West Gabriel,20.34608695652174,23,57,Urban
+West Hannah,29.547619047619055,21,12,Suburban
+West Heather,33.89,9,4,Rural
+West Heidi,23.133928571428573,28,28,Urban
+West Josephberg,21.72038461538461,26,45,Urban
+West Kimmouth,29.871500000000005,20,4,Suburban
+West Patrickchester,28.233124999999994,16,25,Urban
+West Robert,25.123870967741937,31,39,Urban
+West Samuelburgh,21.7676,25,73,Urban
+Williamsonville,31.874999999999996,14,2,Suburban
+Williamsstad,24.36217391304348,23,59,Urban
+Williamsview,26.599,20,46,Urban
